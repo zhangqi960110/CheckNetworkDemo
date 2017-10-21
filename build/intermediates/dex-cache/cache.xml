@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/.android/build-cache/f85d6d85f4a881ee34623703139907ecd5e11d06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/GithubProjects/CheckNetworkDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd88d39bfa926973c981eaba531e7d2db94c8e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/GithubProjects/CheckNetworkDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3057b455aa17cd0f32e57b8206e181b6f05c3302">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/GithubProjects/CheckNetworkDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b61e6d2eed3fb97cd9c8254793c5841cba9cf6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/.android/build-cache/d5c8e7bebedb00448858a2c9888fbaba55f8bbd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/GithubProjects/CheckNetworkDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00dd90c4b14b4681d393c2a611e85261daaa568b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/GithubProjects/CheckNetworkDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/GithubProjects/CheckNetworkDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_85e281c3598824e54abec53a141d8ab1f22183c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/.android/build-cache/e0b23e62e1e10fbcd3e25b2ddf270b60d1e2e4b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/GithubProjects/CheckNetworkDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5e9feaff8dda68dcb06d5f2763e2d41ea60d6c4/classes.dex" />
+    </item>
+
+</items>
